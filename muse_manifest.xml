@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://khinostroza.github.io/PROTECH" resolutions="1x" timestamp="1576775940356">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://khinostroza.github.io/PROTECH" resolutions="1x" timestamp="1576777827502">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-p_g_-maestra.css" crc="3758436668" ref="contacto:terapias:paciente:paciente-1:médico:index:registro-médico:registro-paciente"/>
@@ -7,8 +7,8 @@
     <file name="nomq_preview_master_b-p_g_-maestra.css" crc="4289893022" ref="contacto:terapias:paciente:paciente-1:médico:registro-médico:registro-paciente"/>
     <file name="contacto.css" crc="238969869" ref="contacto"/>
     <file name="nomq_contacto.css" crc="3903046340" ref="contacto"/>
-    <file name="terapias.css" crc="408269373" ref="terapias"/>
-    <file name="nomq_terapias.css" crc="279826040" ref="terapias"/>
+    <file name="terapias.css" crc="447332800" ref="terapias"/>
+    <file name="nomq_terapias.css" crc="408088208" ref="terapias"/>
     <file name="paciente.css" crc="4153092768" ref="paciente"/>
     <file name="nomq_paciente.css" crc="266437146" ref="paciente"/>
     <file name="paciente-1.css" crc="210742479" ref="paciente-1"/>
@@ -42,7 +42,7 @@
     <file name="form-u19001.php" crc="3867233954" ref="registro-médico"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="243675399" ref="index"/>
+    <file name="favicon.ico" crc="243675399" ref="index:terapias"/>
     <file name="logo 21 blanco.png" crc="249748109" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -72,111 +72,111 @@
     <file name="u13468-42.png" crc="3814688362" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:médico:contacto:paciente:paciente-1:terapias:registro-paciente:registro-médico"/>
     <file name="logo 21.png" crc="3760497864" seo="true" ref="médico:contacto:paciente:paciente-1:terapias:registro-paciente:registro-médico">
-      <caption webpage="registro2" alt=""/>
-      <caption webpage="registro2" alt=""/>
-      <caption webpage="registro2" alt=""/>
-      <caption webpage="registro2" alt=""/>
-      <caption webpage="registro2" alt=""/>
-      <caption webpage="paciente" alt=""/>
-      <caption webpage="paciente" alt=""/>
-      <caption webpage="paciente" alt=""/>
-      <caption webpage="paciente" alt=""/>
-      <caption webpage="paciente" alt=""/>
-      <caption webpage="registro-médico" alt=""/>
-      <caption webpage="registro-médico" alt=""/>
-      <caption webpage="registro-médico" alt=""/>
-      <caption webpage="registro-médico" alt=""/>
-      <caption webpage="registro-médico" alt=""/>
-      <caption webpage="indicaciones" alt=""/>
-      <caption webpage="indicaciones" alt=""/>
-      <caption webpage="indicaciones" alt=""/>
-      <caption webpage="indicaciones" alt=""/>
-      <caption webpage="indicaciones" alt=""/>
-      <caption webpage="datos-paciente" alt=""/>
-      <caption webpage="datos-paciente" alt=""/>
-      <caption webpage="datos-paciente" alt=""/>
-      <caption webpage="datos-paciente" alt=""/>
-      <caption webpage="datos-paciente" alt=""/>
       <caption webpage="terapeuta" alt=""/>
       <caption webpage="terapeuta" alt=""/>
       <caption webpage="terapeuta" alt=""/>
       <caption webpage="terapeuta" alt=""/>
       <caption webpage="terapeuta" alt=""/>
-      <caption webpage="paciente-1-terápias" alt=""/>
-      <caption webpage="paciente-1-terápias" alt=""/>
-      <caption webpage="paciente-1-terápias" alt=""/>
-      <caption webpage="paciente-1-terápias" alt=""/>
-      <caption webpage="paciente-1-terápias" alt=""/>
-      <caption webpage="terápias" alt=""/>
-      <caption webpage="terápias" alt=""/>
-      <caption webpage="terápias" alt=""/>
-      <caption webpage="terápias" alt=""/>
-      <caption webpage="terápias" alt=""/>
-      <caption webpage="formato" alt=""/>
-      <caption webpage="formato" alt=""/>
-      <caption webpage="formato" alt=""/>
-      <caption webpage="formato" alt=""/>
-      <caption webpage="formato" alt=""/>
-      <caption webpage="precauciones" alt=""/>
-      <caption webpage="precauciones" alt=""/>
-      <caption webpage="precauciones" alt=""/>
-      <caption webpage="precauciones" alt=""/>
-      <caption webpage="precauciones" alt=""/>
-      <caption webpage="terapias" alt=""/>
-      <caption webpage="terapias" alt=""/>
-      <caption webpage="terapias" alt=""/>
-      <caption webpage="terapias" alt=""/>
-      <caption webpage="terapias" alt=""/>
-      <caption webpage="registro-3" alt=""/>
-      <caption webpage="registro-3" alt=""/>
-      <caption webpage="registro-3" alt=""/>
-      <caption webpage="registro-3" alt=""/>
-      <caption webpage="registro-3" alt=""/>
+      <caption webpage="paciente" alt=""/>
+      <caption webpage="paciente" alt=""/>
+      <caption webpage="paciente" alt=""/>
+      <caption webpage="paciente" alt=""/>
+      <caption webpage="paciente" alt=""/>
       <caption webpage="registro" alt=""/>
       <caption webpage="registro" alt=""/>
       <caption webpage="registro" alt=""/>
       <caption webpage="registro" alt=""/>
       <caption webpage="registro" alt=""/>
-      <caption webpage="registro-paciente" alt=""/>
-      <caption webpage="registro-paciente" alt=""/>
-      <caption webpage="registro-paciente" alt=""/>
-      <caption webpage="registro-paciente" alt=""/>
-      <caption webpage="registro-paciente" alt=""/>
-      <caption webpage="contacto" alt=""/>
-      <caption webpage="contacto" alt=""/>
-      <caption webpage="contacto" alt=""/>
-      <caption webpage="contacto" alt=""/>
-      <caption webpage="contacto" alt=""/>
-      <caption webpage="registtro-enfermero" alt=""/>
-      <caption webpage="registtro-enfermero" alt=""/>
-      <caption webpage="registtro-enfermero" alt=""/>
-      <caption webpage="registtro-enfermero" alt=""/>
-      <caption webpage="registtro-enfermero" alt=""/>
       <caption webpage="cartilla" alt=""/>
       <caption webpage="cartilla" alt=""/>
       <caption webpage="cartilla" alt=""/>
       <caption webpage="cartilla" alt=""/>
       <caption webpage="cartilla" alt=""/>
+      <caption webpage="registro-3" alt=""/>
+      <caption webpage="registro-3" alt=""/>
+      <caption webpage="registro-3" alt=""/>
+      <caption webpage="registro-3" alt=""/>
+      <caption webpage="registro-3" alt=""/>
+      <caption webpage="formato" alt=""/>
+      <caption webpage="formato" alt=""/>
+      <caption webpage="formato" alt=""/>
+      <caption webpage="formato" alt=""/>
+      <caption webpage="formato" alt=""/>
+      <caption webpage="paciente-1-terápias" alt=""/>
+      <caption webpage="paciente-1-terápias" alt=""/>
+      <caption webpage="paciente-1-terápias" alt=""/>
+      <caption webpage="paciente-1-terápias" alt=""/>
+      <caption webpage="paciente-1-terápias" alt=""/>
+      <caption webpage="datos-paciente" alt=""/>
+      <caption webpage="datos-paciente" alt=""/>
+      <caption webpage="datos-paciente" alt=""/>
+      <caption webpage="datos-paciente" alt=""/>
+      <caption webpage="datos-paciente" alt=""/>
       <caption webpage="registro-terapeuta" alt=""/>
       <caption webpage="registro-terapeuta" alt=""/>
       <caption webpage="registro-terapeuta" alt=""/>
       <caption webpage="registro-terapeuta" alt=""/>
       <caption webpage="registro-terapeuta" alt=""/>
-      <caption webpage="dispositivo" alt=""/>
-      <caption webpage="dispositivo" alt=""/>
-      <caption webpage="dispositivo" alt=""/>
-      <caption webpage="dispositivo" alt=""/>
-      <caption webpage="dispositivo" alt=""/>
-      <caption webpage="paciente-1" alt=""/>
-      <caption webpage="paciente-1" alt=""/>
-      <caption webpage="paciente-1" alt=""/>
-      <caption webpage="paciente-1" alt=""/>
-      <caption webpage="paciente-1" alt=""/>
+      <caption webpage="terapias" alt=""/>
+      <caption webpage="terapias" alt=""/>
+      <caption webpage="terapias" alt=""/>
+      <caption webpage="terapias" alt=""/>
+      <caption webpage="terapias" alt=""/>
       <caption webpage="médico" alt=""/>
       <caption webpage="médico" alt=""/>
       <caption webpage="médico" alt=""/>
       <caption webpage="médico" alt=""/>
       <caption webpage="médico" alt=""/>
+      <caption webpage="registro-médico" alt=""/>
+      <caption webpage="registro-médico" alt=""/>
+      <caption webpage="registro-médico" alt=""/>
+      <caption webpage="registro-médico" alt=""/>
+      <caption webpage="registro-médico" alt=""/>
+      <caption webpage="registro2" alt=""/>
+      <caption webpage="registro2" alt=""/>
+      <caption webpage="registro2" alt=""/>
+      <caption webpage="registro2" alt=""/>
+      <caption webpage="registro2" alt=""/>
+      <caption webpage="dispositivo" alt=""/>
+      <caption webpage="dispositivo" alt=""/>
+      <caption webpage="dispositivo" alt=""/>
+      <caption webpage="dispositivo" alt=""/>
+      <caption webpage="dispositivo" alt=""/>
+      <caption webpage="indicaciones" alt=""/>
+      <caption webpage="indicaciones" alt=""/>
+      <caption webpage="indicaciones" alt=""/>
+      <caption webpage="indicaciones" alt=""/>
+      <caption webpage="indicaciones" alt=""/>
+      <caption webpage="precauciones" alt=""/>
+      <caption webpage="precauciones" alt=""/>
+      <caption webpage="precauciones" alt=""/>
+      <caption webpage="precauciones" alt=""/>
+      <caption webpage="precauciones" alt=""/>
+      <caption webpage="terápias" alt=""/>
+      <caption webpage="terápias" alt=""/>
+      <caption webpage="terápias" alt=""/>
+      <caption webpage="terápias" alt=""/>
+      <caption webpage="terápias" alt=""/>
+      <caption webpage="registro-paciente" alt=""/>
+      <caption webpage="registro-paciente" alt=""/>
+      <caption webpage="registro-paciente" alt=""/>
+      <caption webpage="registro-paciente" alt=""/>
+      <caption webpage="registro-paciente" alt=""/>
+      <caption webpage="registtro-enfermero" alt=""/>
+      <caption webpage="registtro-enfermero" alt=""/>
+      <caption webpage="registtro-enfermero" alt=""/>
+      <caption webpage="registtro-enfermero" alt=""/>
+      <caption webpage="registtro-enfermero" alt=""/>
+      <caption webpage="paciente-1" alt=""/>
+      <caption webpage="paciente-1" alt=""/>
+      <caption webpage="paciente-1" alt=""/>
+      <caption webpage="paciente-1" alt=""/>
+      <caption webpage="paciente-1" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
     </file>
     <file name="svg-pegado-230002x49.svg" crc="515628889" seo="true" ref="médico">
       <caption webpage="médico" alt=""/>
@@ -296,7 +296,7 @@
       <caption webpage="registro2" alt=""/>
     </file>
     <file name="svg pegado 190_poster_2.png" crc="463934658" ref="registro-paciente"/>
-    <file name="svg-pegado-216106x26.svg" crc="22769325" seo="true" ref="terapias">
+    <file name="svg-pegado-216106x26.svg" crc="458192671" seo="true" ref="terapias">
       <caption webpage="terápias" alt=""/>
       <caption webpage="terápias" alt=""/>
       <caption webpage="terápias" alt=""/>
@@ -308,7 +308,7 @@
       <caption webpage="terapias" alt=""/>
       <caption webpage="terapias" alt=""/>
     </file>
-    <file name="svg pegado 216106x26_poster_.png" crc="501664709" ref="terapias"/>
+    <file name="svg pegado 216106x26_poster_.png" crc="4229238151" ref="terapias"/>
     <file name="svg-pegado-202344x25.svg" crc="4009797380" seo="true" ref="paciente">
       <caption webpage="paciente" alt=""/>
       <caption webpage="paciente" alt=""/>
@@ -400,7 +400,7 @@
   <file name="contacto.html" crc="437278901" seo="true" mt="1574837478640" redirect="true"/>
   <file name="paciente.html" crc="4094817301" seo="true" mt="1576775747291" redirect="true"/>
   <file name="paciente-1.html" crc="4115486162" seo="true" mt="1576775589491" redirect="true"/>
-  <file name="terapias.html" crc="165468583" seo="true" mt="1575051800657" redirect="true"/>
+  <file name="terapias.html" crc="4254091825" seo="true" mt="1576777661292" redirect="true"/>
   <file name="registro-paciente.html" crc="96452143" seo="true" mt="1576774532701" redirect="true"/>
   <file name="registro-médico.html" crc="3916104490" seo="true" mt="1576774954131" redirect="true"/>
 </manifest>
